@@ -1,0 +1,1 @@
+SELECT `Quarter Ending`, Department, Amount, State FROM VermontVendor
